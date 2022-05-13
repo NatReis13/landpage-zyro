@@ -220,6 +220,13 @@ a {
 .span1Seçao3 {
   font-size: 20px;
   color: black;
-  font-weight: 800;
+  font-weight: 700;
 }
-.cardSeçao3;
+.span2Seçao3 {
+  font-size: 16px;
+  color: #565656;
+}
+.w-100{
+  width: 100%;
+}
+
