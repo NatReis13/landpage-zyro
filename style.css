@@ -6,12 +6,12 @@ body {
 }
 
 .sectionFundo {
-  background-image: url(./Imagens/homepage_1-YNqLXxVN47sX10zJ.png);
+  background-image: url(./Imagens/ImgNovas/homepage_1-YNqLXxVN47sX10zJ.png);
   width: 100%;
   background-repeat: no-repeat;
   background-size: 130% 100%;
   background-position: center;
-  padding-bottom: 100px;
+  padding-bottom: 50px;
   /* height: 100%; */
 }
 
@@ -242,8 +242,8 @@ a {
 /*Seçao 4*/
 
 .sectionFundo2 {
-  margin-top: 120px;
-  background-image: url(./Imagens/anhedo-AoP1EOyN8NcOnpbD.avif);
+  margin-top: 50px;
+  background-image: url(./Imagens/ImgNovas/anhedo-AoP1EOyN8NcOnpbD.png);
   margin-bottom: 0px;
   background-size: 130% 100%;
   background-position: center;
